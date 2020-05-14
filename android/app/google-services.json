@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220406972004",
+    "firebase_url": "https://cobalagilagi6969.firebaseio.com",
+    "project_id": "cobalagilagi6969",
+    "storage_bucket": "cobalagilagi6969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220406972004:android:71ea559181ee1ea890e971",
+        "android_client_info": {
+          "package_name": "com.example.tahakim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220406972004-amiom02sh9m0raqib71tg2h4pumh4ci2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZAXo-YV2-VHNeHpRCmrAyHTSfXSo_SHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220406972004-amiom02sh9m0raqib71tg2h4pumh4ci2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
